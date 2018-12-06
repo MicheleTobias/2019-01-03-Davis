@@ -178,11 +178,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
+<hr/>
 <p id = "registration">
-  <strong>Registration</stong>: Please <a href="https://forms.library.ucdavis.edu/classes/register.php?classid=2413"> register to attend this workshop</a>.  Only registered attendees will be admitted to this workshop.
+  <strong>Registration</strong>: 
+  Please <a href="https://forms.library.ucdavis.edu/classes/register.php?classid=2413"> register to attend this workshop</a>.  Only registered attendees will be admitted to this workshop.
   
   </p>
-
+  
 <hr/>
 
 {% comment %} 
