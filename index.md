@@ -183,7 +183,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <h2>Registration</h2>
   <p id = "registration"><strong>Registration:</strong>Please <a href="https://forms.library.ucdavis.edu/classes/register.php?classid=2413"> register to attend this workshop</a>.  Only registered attendees will be admitted to this workshop.
 </p>
-<p>Registation is currently full.  Please add your name to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6yRdSPgx70Bt5lPHwUq4QXrjlEoiZ8_ncs66dKlz3oyPlag/viewform?usp=sf_link"> waitlist</a>.
+<p><strong>Registation is currently full.</strong>  Please add your name to our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6yRdSPgx70Bt5lPHwUq4QXrjlEoiZ8_ncs66dKlz3oyPlag/viewform?usp=sf_link"> waitlist</a>.
 
 <p><strong>Cost:</strong> This workshop is free of cost.
   </p>
