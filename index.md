@@ -308,7 +308,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 
 
-
+{% comment %}
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
   <h3>Text Editor</h3>
 
@@ -368,7 +368,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
-
+{% endcomment %}
 
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
