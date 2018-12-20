@@ -208,6 +208,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
+<h2>Workshop Notes & Scripts</h2>
+<p>We will keep our live coding documents and other documents we generate while teaching in a <a href="https://www.dropbox.com/sh/inws39643cg2k27/AAAA34aTy4WyES7pcH-452zCa?dl=0">Dropbox folder</a>.</p>
+
+<hr/>
+
 
 {% comment %}
   SCHEDULE
