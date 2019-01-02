@@ -209,8 +209,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <hr/>
 
 <h2>Workshop Notes & Scripts</h2>
-<p>We will keep our live coding documents and other documents we generate while teaching in a <a href="https://ucdavis.box.com/s/sqy9obe0zvyxdkuzv5d3elp763jupgmi">Box folder</a>.</p>
-<p>UC Davis affiliates can sign up for a <a href="http://technology.engineering.ucdavis.edu/services/email-calendars-collaboration/box-com/box-com_help/">free enterprise Box account</a>.</p>
+<p>We will keep our live coding documents and other documents we generate while teaching in a <a href="https://www.dropbox.com/sh/inws39643cg2k27/AAAA34aTy4WyES7pcH-452zCa?dl=0">DropBox folder</a>.</p>
 
 <hr/>
 
